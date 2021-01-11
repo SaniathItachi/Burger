@@ -212,6 +212,7 @@ button css start here
 	font-family: 'Bebas Neue', cursive;
 	font-weight: 800;
 	font-size: 20px;
+	cursor: pointer;
 
 
 }
@@ -293,6 +294,7 @@ text css start here
 	padding: 15px 25px;
 	text-transform: uppercase;
 	font-size: 16px;
+	cursor: pointer;
 }
 
 
